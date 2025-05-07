@@ -1,0 +1,62 @@
+{
+    "data":[
+        {
+           "name":"High-Back Bench",
+           "price":"$9,99",
+           "id":"1",
+           "company": "ikea",
+           "coloros":["black", "red", "green"] ,
+           "images":[
+            "/public/imgs/Frame 295.png",
+            "/public/imgs/Frame 296.png",
+            "/public/imgs/Rectangle 41.png",
+            "/public/imgs/Rectangle 41 (2).png"
+           ],
+           "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aspernatur totam consequuntur nesciunt sed fuga ea voluptatem id pariatur. Facere veritatis asperiores dolores. Quibusdam ducimus nemo nobis quod fugit molestiae ipsam in doloribus magni vero quaerat temporibus perferendis ex iusto, fuga inventore. Beatae eligendi praesentium cupiditate vitae sint nihil itaque."
+        },
+        {
+           "name":"Albany Table",
+           "price":"$79,99",
+           "id":"2",
+           "company": "marcos",
+           "coloros":["blue", "yellow", "green", "grey"] ,
+           "images":[
+            "/public/imgs/Rectangle 41 (1).png",
+            "/public/imgs/Frame 295.png",
+            "/public/imgs/Frame 296.png",
+            "/public/imgs/Rectangle 41.png",
+            "/public/imgs/Rectangle 41 (2).png"
+           ],
+           "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aspernatur totam consequuntur nesciunt sed fuga ea voluptatem id pariatur. Facere veritatis asperiores dolores. Quibusdam ducimus nemo nobis quod fugit molestiae ipsam in doloribus magni vero quaerat temporibus perferendis ex iusto, fuga inventore. Beatae eligendi praesentium cupiditate vitae sint nihil itaque."
+        },
+        {
+           "name":"Accent Chair",
+           "price":"$25,99",
+           "id":"3",
+           "company": "liddy",
+           "coloros":["gray", "purple", "#ccc", "yellow"] ,
+           "images":[
+               "/public/imgs/Rectangle 41 (2).png",
+            "/public/imgs/Frame 295.png",
+            "/public/imgs/Frame 296.png",
+            "/public/imgs/Rectangle 41.png"
+           ],
+           "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aspernatur totam consequuntur nesciunt sed fuga ea voluptatem id pariatur. Facere veritatis asperiores dolores. Quibusdam ducimus nemo nobis quod fugit molestiae ipsam in doloribus magni vero quaerat temporibus perferendis ex iusto, fuga inventore. Beatae eligendi praesentium cupiditate vitae sint nihil itaque."
+        },
+        {
+           "name":"Wooden Table",
+           "price":"$45,99",
+           "id":"4",
+           "company": "caressa",
+           "coloros":["black", "red", "green"] ,
+           "images":[
+               "/public/imgs/Frame 296.png",
+            "/public/imgs/Frame 295.png",
+            "/public/imgs/Rectangle 41 (2).png",
+            "/public/imgs/Rectangle 41.png",
+            "/public/imgs/Rectangle 41 (1).png"
+           ],
+           "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aspernatur totam consequuntur nesciunt sed fuga ea voluptatem id pariatur. Facere veritatis asperiores dolores. Quibusdam ducimus nemo nobis quod fugit molestiae ipsam in doloribus magni vero quaerat temporibus perferendis ex iusto, fuga inventore. Beatae eligendi praesentium cupiditate vitae sint nihil itaque."
+        }
+    ]
+}
